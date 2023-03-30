@@ -12,7 +12,16 @@ A API utilizada sera a do Viacep.
 
 ## 🖥 Layout Web
 
+
+![screencapture-murilobovati-github-io-buscador-de-cep-2023-03-30-13_38_59](https://user-images.githubusercontent.com/93354240/228905504-97652620-c1d3-4b61-ae4e-80037d39b696.png)
+
 ## 📱 Layout Mobile
+
+<div width="100" height="100">
+
+  <img src="https://user-images.githubusercontent.com/93354240/228905535-402791a8-65cc-4a3a-94bf-c8ea2a709309.jpeg" width="30%" height="450">
+
+</div>
 
 # 🛠 Tecnologias utilizadas
 ## 👩‍💻 Front end
